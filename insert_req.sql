@@ -59,6 +59,7 @@ values
     ('Luminous', '4:43', 7),
     ('Vrum vrum', '4:00', 8),
     ('143', '3:48', 8),
+    ('fans', '2:36', 9),
     ('fans', '2:36', 9);
 
 insert into compilation(name, year)
